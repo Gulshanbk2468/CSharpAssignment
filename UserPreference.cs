@@ -1,17 +1,17 @@
 using System;
 
-class UserPreferences
-{
-    public void SetUserData(int age, double height, bool notifications)
-    {
-        Console.WriteLine("\n---- User Preferences ----");
+class UserPreferences{
+
+    public void SetUserData(int age, double height, bool notifications){
+    
+        Console.WriteLine("User Preferences ");
         Console.WriteLine("Your age is: " + age);
         Console.WriteLine("Your height is: " + height + " meters");
-        Console.WriteLine("Notifications: " + notifications);  // prints true or false
+        Console.WriteLine("Notifications: " + notifications);  
     }
 
-    static void Main(string[] args)
-    {
+    static void Main(string[] args){
+    
         UserPreferences user = new UserPreferences();
 
         Console.WriteLine("Welcome! Please enter your details.");
