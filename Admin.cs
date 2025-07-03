@@ -12,7 +12,7 @@ namespace ConsoleApp1
             string inputEmail = Console.ReadLine();
             Console.WriteLine("Please enter your password:");
             string inputPassword = Console.ReadLine();
-        if(inputEmail == email && inputPassword == password)
+            if(inputEmail == email && inputPassword == password)
             {
                 Console.WriteLine("Login successful! You are now in the admin panel.");
             }
