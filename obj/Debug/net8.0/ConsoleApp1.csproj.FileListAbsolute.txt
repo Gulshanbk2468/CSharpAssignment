@@ -1,0 +1,15 @@
+/home/pogba/CSharp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/pogba/CSharp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/pogba/CSharp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/pogba/CSharp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/pogba/CSharp/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/home/pogba/CSharp/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
