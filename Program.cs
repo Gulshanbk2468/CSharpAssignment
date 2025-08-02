@@ -4,11 +4,19 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args){
+        static void Main(string[] args)
+        {
+
+            // Calculator.cs
+            Calculator calculator = new Calculator();
+            calculator.Setdata();
+
+
+
             // GradeChecker.cs
             GradeChecker gradeChecker = new GradeChecker();
             gradeChecker.Setdata();
-            
+
             // TriangleChecker.cs
             TriangleChecker triangleChecker = new TriangleChecker();
             triangleChecker.CheckTriangle();
@@ -23,7 +31,7 @@ namespace ConsoleApp1
 
             // Admin.cs
             Admin admin = new Admin();
-            admin.Display();    
+            admin.Display();
 
             // UserPreferences.cs
             UserPreferences userPreferences = new UserPreferences();
@@ -37,8 +45,11 @@ namespace ConsoleApp1
             userPreferences.SetUserData(age, height, notifications);
             Console.WriteLine("\nThank you for setting your preferences!");
 
+            // HeightChecker.cs
+            HeightChecker heightChecker = new HeightChecker();
+            heightChecker.CheckHeight();
 
-        
+
         }
     }
 }
