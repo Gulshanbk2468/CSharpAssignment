@@ -12,8 +12,7 @@ public class Calculator
         double num2 = Convert.ToDouble(Console.ReadLine());
 
         int i = 1;
-        // while (i <= 5)
-        // {
+        
             Console.WriteLine("Enter an operator (+, -, *, /, %):");
             char oper = Convert.ToChar(Console.ReadLine());
             double add = num1 + num2;
