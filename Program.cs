@@ -7,16 +7,22 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
+            // Pattern.cs
+            Pattern pattern = new Pattern();
+            pattern.PrintPattern();
+            pattern.PrintReversePattern();
+
             // Calculator.cs
             Calculator calculator = new Calculator();
             calculator.Setdata();
+            calculator.Again();
 
 
 
             // GradeChecker.cs
             GradeChecker gradeChecker = new GradeChecker();
             gradeChecker.Setdata();
-
+// 
             // TriangleChecker.cs
             TriangleChecker triangleChecker = new TriangleChecker();
             triangleChecker.CheckTriangle();
