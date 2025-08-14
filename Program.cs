@@ -6,13 +6,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-               StudentDetails studentDetails = new StudentDetails();
-               studentDetails.SetData();           
+            
+            Guessing guessing = new Guessing();
+            guessing.SetData();
+            //    StudentDetails studentDetails = new StudentDetails();
+            //    studentDetails.SetData();           
 
-               StudentDetl studentDetl = new StudentDetl();
-               studentDetl.SetData();  
+            //    StudentDetl studentDetl = new StudentDetl();
+            //    studentDetl.SetData();  
 
-//             // GradeChecker.cs
+            //             // GradeChecker.cs
             //             GradeChecker gradeChecker = new GradeChecker();
             //             gradeChecker.Setdata();
 
