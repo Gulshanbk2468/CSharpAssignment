@@ -7,8 +7,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             
-            Guessing guessing = new Guessing();
-            guessing.SetData();
+            Triple triple = new Triple();
+            triple.SetData();
+            // Guessing guessing = new Guessing();
+            // guessing.SetData();
             //    StudentDetails studentDetails = new StudentDetails();
             //    studentDetails.SetData();           
 
