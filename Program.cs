@@ -7,8 +7,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             
-            Triple triple = new Triple();
-            triple.SetData();
+            BinaryToDecimal binaryToDecimal = new BinaryToDecimal();
+            binaryToDecimal.SetData();
+            // FunctionalGradech functionalGradech = new FunctionalGradech();
+            // functionalGradech.SetData();    
+
+            // Triple triple = new Triple();
+            // triple.SetData();
             // Guessing guessing = new Guessing();
             // guessing.SetData();
             //    StudentDetails studentDetails = new StudentDetails();
